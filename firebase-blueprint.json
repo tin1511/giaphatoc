@@ -1,0 +1,22 @@
+{
+  "entities": {
+    "ClanDataStore": {
+      "title": "Clan Data Store",
+      "description": "Durable storage for individual clan datasets",
+      "type": "object",
+      "properties": {
+        "value": {
+          "type": "object",
+          "description": "The JSON-serializable dataset payload (members, contributions, articles, change requests, accounts, logs, or settings)"
+        }
+      },
+      "required": ["value"]
+    }
+  },
+  "firestore": {
+    "clan_data_store/{key}": {
+      "schema": "ClanDataStore",
+      "description": "Map-based key-value document store for persistent database sync"
+    }
+  }
+}

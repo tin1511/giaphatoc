@@ -1,0 +1,26 @@
+[
+  {
+    "birthYear": 1983,
+    "motherId": null,
+    "deathYear": null,
+    "isAlive": true,
+    "generation": 1,
+    "spouseName": "Nguyễn Thị Hoàng Minh",
+    "gender": "male",
+    "phoneNumber": "0935164469",
+    "fatherId": null,
+    "fullName": "Võ Đình Thông",
+    "email": "",
+    "id": "mem_gen4_5076",
+    "childrenIds": [],
+    "status": "active",
+    "spouses": [
+      {
+        "spouseRole": "chinh_that",
+        "fullName": "Nguyễn Thị Hoàng Minh",
+        "isAlive": true
+      }
+    ],
+    "branch": "Chi 1"
+  }
+]

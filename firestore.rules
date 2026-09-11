@@ -1,0 +1,18 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Default-deny catch-all
+    match /{document=**} {
+      allow read, write: if false;
+    }
+
+    function isValidKey(key) {
+      return key in ['members', 'contributions', 'articles', 'changeRequests', 'accounts', 'auditLogs', 'clanSettings'];
+    }
+
+    // Secure database storage collection for clan datasets
+    match /clan_data_store/{key} {
+      allow read, write: if isValidKey(key);
+    }
+  }
+}

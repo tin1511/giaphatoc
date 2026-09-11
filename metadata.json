@@ -1,0 +1,6 @@
+{
+  "name": "Gia Phả Họ Tộc Online",
+  "description": "Nền tảng Quản lý Cây Gia phả Tương tác, Truyền thông Dòng họ & Quỹ Đóng góp Họ tộc",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

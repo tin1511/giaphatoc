@@ -1,0 +1,31 @@
+{
+  "requireApprovalForEdits": true,
+  "contactPhone": "0935164469",
+  "headerTitle": "Gia Phả Dòng Họ",
+  "headerEstText": "",
+  "footerDescription": "Nền tảng quản lý gia phả thông minh, lưu truyền truyền thống uống nước nhớ nguồn cho muôn đời sau.",
+  "headerSubtitle": "Cội nguồn tiên tổ - Vạn đời hưng thịnh",
+  "branchName": "Chi Phái Đệ Nhất",
+  "ancestralHallAddress": "Chưa cập nhật",
+  "clanName": "Dòng Họ Nguyễn",
+  "worshipDateLunar": "Chưa cập nhật",
+  "footerLinksNote": "Bảo tồn văn hóa truyền thống • Kết nối muôn đời con cháu",
+  "allowPublicView": true,
+  "footerSubtitle": "Hệ Thống Dòng Họ Võ Đình Chi Phái Đệ Nhất",
+  "footerCopyright": "© 2026 Ban Trị Sự Dòng Họ Võ Đình. Bảo lưu mọi quyền.",
+  "headOfClan": "Chưa cập nhật",
+  "headerLogoText": "",
+  "establishedYear": 1900,
+  "headerAnnouncement": "Chào mừng bà con đến với hệ thống quản lý phả hệ số trực tuyến dòng họ!",
+  "contactEmail": "bantrisu@giaphahotoc.vn",
+  "showHeaderAnnouncement": true,
+  "bankAccount": {
+    "qrCodeUrl": "https://api.vietqr.io/image/970422-0011004567890-compact2.jpg?accountName=VO%20DINH%20THONG",
+    "accountHolder": "VO DINH THONg",
+    "branchName": "Ngân Hàng TMCP Tiên Phong TPBank",
+    "accountNumber": "0011004567890",
+    "bankName": "Ngân hàng TMCP Ngoại Thương Việt Nam (Vietcombank)"
+  },
+  "footerTitle": "Gia Phả Họ Võ Đình Tộc",
+  "headerBadgeText": "Họ Võ Đình Tộc"
+}

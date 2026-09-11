@@ -1,0 +1,12 @@
+[
+  {
+    "userId": "usr_admin",
+    "details": "Lưu tất cả thao tác và thông tin lên Firebase thành công",
+    "action": "Đồng bộ toàn diện lên Firebase Firestore",
+    "category": "system",
+    "timestamp": "2026-09-10T07:55:00Z",
+    "userRole": "admin",
+    "userName": "Võ Văn Trị",
+    "id": "log_test_all"
+  }
+]

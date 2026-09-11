@@ -1,0 +1,62 @@
+[
+  {
+    "createdAt": "2026-01-01T08:00:00Z",
+    "fullName": "Quản Trị Viên Dòng Họ",
+    "password": "admin@2026",
+    "email": "admin@giapha.vn",
+    "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&auto=format&fit=crop&q=80",
+    "status": "active",
+    "lastLoginAt": "2026-03-09T08:30:00Z",
+    "branch": "Ban Quản Trị",
+    "title": "Trưởng Ban Trị Sự",
+    "username": "admin",
+    "id": "usr_admin_01",
+    "role": "admin",
+    "phone": "0912 345 678"
+  },
+  {
+    "email": "lienlac1@giapha.vn",
+    "createdAt": "2026-02-15T09:00:00Z",
+    "title": "Liên Lạc Viên Chi 1",
+    "username": "lienlac1",
+    "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&auto=format&fit=crop&q=80",
+    "lastLoginAt": "2026-03-08T15:20:00Z",
+    "id": "usr_liaison_01",
+    "fullName": "Nguyễn Văn Liên Lạc",
+    "password": "liaison123",
+    "role": "liaison",
+    "branch": "Chi Phái 1",
+    "phone": "0977 123 456",
+    "status": "active"
+  },
+  {
+    "createdAt": "2026-03-01T14:00:00Z",
+    "fullName": "Biên Tập Viên Bản Tin",
+    "password": "reporter123",
+    "avatarUrl": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?w=400&auto=format&fit=crop&q=80",
+    "role": "reporter",
+    "lastLoginAt": "2026-03-06T17:10:00Z",
+    "phone": "0936 112 233",
+    "email": "phongvien@giapha.vn",
+    "username": "phongvien",
+    "id": "usr_reporter_01",
+    "branch": "Ban Truyền Thông",
+    "status": "active",
+    "title": "Cộng Tác Viên Bản Tin"
+  },
+  {
+    "createdAt": "2026-05-10T16:00:00Z",
+    "id": "usr_member_01",
+    "password": "member123",
+    "fullName": "Nguyễn Thành Viên",
+    "lastLoginAt": "2026-03-09T02:15:00Z",
+    "branch": "Hậu Duệ",
+    "status": "active",
+    "avatarUrl": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=400&auto=format&fit=crop&q=80",
+    "phone": "0908 776 655",
+    "role": "member",
+    "username": "conchau",
+    "email": "conchau@giapha.vn",
+    "title": "Thành Viên Dòng Họ"
+  }
+]

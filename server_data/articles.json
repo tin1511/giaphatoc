@@ -1,0 +1,21 @@
+[
+  {
+    "id": "art_001",
+    "title": "Chào mừng đến với Hệ thống Gia Phả Số Dòng Họ",
+    "authorRole": "admin",
+    "category": "news",
+    "authorId": "usr_admin_01",
+    "publishedAt": "2026-09-10T12:58:29.164Z",
+    "tags": [
+      "Chào mừng",
+      "Gia phả số"
+    ],
+    "content": "Kính thưa toàn thể bà con nội ngoại dòng họ!\n\nHệ thống Gia phả số của dòng họ chúng ta đã chính thức được thiết lập. Đây là nơi lưu trữ, tra cứu phả hệ, đóng góp quỹ dòng họ và chia sẻ bản tin sự kiện.\n\nBan quản trị đã khởi tạo một thành viên Thủy Tổ ban đầu. Kính mời Trưởng tộc, các liên lạc viên tiến hành đăng nhập bằng tài khoản quản trị để bắt đầu xây dựng phả đồ, cập nhật thông tin thành viên cũng như đăng tải các sự kiện của dòng họ.",
+    "views": 1,
+    "coverImageUrl": "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?w=800&auto=format&fit=crop&q=80",
+    "authorName": "Quản trị viên",
+    "slug": "chao-mung-he-thong-gia-pha-so",
+    "status": "published",
+    "summary": "Chào mừng bà con cô bác họ tộc truy cập trang tin và gia phả trực tuyến."
+  }
+]
